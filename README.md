@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+I am Xiao Guang, a 2nd Year Data Science and Analytics Student from the National University of Singapore. My interests lie in Data Analysis and Machine Learning methods. 
+I have worked on some exploratory Data Analysis projects (check out my repositories!), and am looking towards starting a Machine Learning project soon.
+
+## Tech Stack
+<li> SQL </li>
+<li> R </li>
+<li> Python </li>
+<li> Java </li>
+<li> HTML </li>
+<li> CSS </li>
+<li> JavaScript </li>
+
