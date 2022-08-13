@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am Xiao Guang, a 2nd Year Data Science and Analytics Student from the National University of Singapore. My interests lie in Data Analysis and Machine Learning methods. 
-I have worked on some Exploratory Data Analysis projects (check out my repositories!), and am looking towards starting a Machine Learning project soon.
+I am Xiao Guang, a penultimate Year Data Science and Analytics Student from the National University of Singapore. My interests lie in Data Analysis and Machine Learning methods. 
+
+Here is where you can find some repositories on my academic and side projects!
 
 ## Programming Languages
 <li> SQL </li>
@@ -29,4 +30,7 @@ I have worked on some Exploratory Data Analysis projects (check out my repositor
 <li> CSS </li>
 <li> JavaScript </li>
 
+## Machine Learning Libraries
+<li> PyTorch </li>
+<li> Scikit-learn </li>
 
