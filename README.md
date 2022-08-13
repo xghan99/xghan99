@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am Xiao Guang, a penultimate Year Data Science and Analytics Student from the National University of Singapore. My interests lie in Data Analysis and Machine Learning methods. 
 
-Here is where you can find some repositories on my academic and side projects!
+Here is where you can find some repositories for my academic and side projects!
 
 ## Programming Languages
 <li> SQL </li>
