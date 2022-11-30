@@ -26,11 +26,18 @@ Here is where you can find some repositories for my academic and side projects!
 <li> R </li>
 <li> Python </li>
 <li> Java </li>
-<li> HTML </li>
-<li> CSS </li>
-<li> JavaScript </li>
+
 
 ## Machine Learning Libraries
 <li> PyTorch </li>
 <li> Scikit-learn </li>
 
+## Web Development
+<li> HTML </li>
+<li> CSS </li>
+<li> JavaScript </li>
+<li> Flask </li>
+
+## Other Tools
+<li> Git </li>
+<li> Docker </li>
