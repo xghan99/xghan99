@@ -31,6 +31,8 @@ Here is where you can find some repositories for my academic and side projects!
 ## Machine Learning Libraries
 <li> PyTorch </li>
 <li> Scikit-learn </li>
+<li> Tensorflow </li>
+<li> Jax, Flax, Optax </li>
 
 ## Web Development
 <li> HTML </li>
