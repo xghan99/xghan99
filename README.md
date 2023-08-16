@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am Xiao Guang, a penultimate Year Data Science and Analytics Student from the National University of Singapore. My interests lie in Data Analysis and Machine Learning methods. 
+I am Xiao Guang, a Final Year Data Science and Analytics Student from the National University of Singapore. My interests lie in Machine Learning and Data Engineering. 
 
 Here is where you can find some repositories for my academic and side projects!
 
